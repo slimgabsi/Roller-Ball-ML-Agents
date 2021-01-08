@@ -1,6 +1,7 @@
 # RollerBallMLAgents
 
-Simple unity Ml agents implentation trained with PPO .
+Simple Unity Ml agents implentation trained with PPO .
+Ball seeking target on a platfrom . 
 
 
 
