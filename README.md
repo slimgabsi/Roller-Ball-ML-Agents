@@ -5,6 +5,6 @@ Simple Unity Ml agents implentation trained with PPO , Ball seeking target on a 
 The Repo contains the unity project , the config file for training and webgl build with pretrained model .
 
 
-### Trained Model WebGl Link
+### WebGl Link
 https://slimgabsi.github.io/RollerBallMLAgents/
 
