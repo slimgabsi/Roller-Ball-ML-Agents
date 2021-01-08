@@ -1,8 +1,8 @@
 # RollerBallMLAgents
 
-Simple Unity Ml agents implentation trained with PPO , Ball seeking target on a platfrom . 
+Simple Unity Ml agents implentation , Ball seeking target on a platfrom , trained with PPO .
 </br>
-The Repo contains the unity project , the config file for training and webgl build with pretrained model .
+The Repo contains the unity project , the config file for training and the webgl build with pretrained model .
 
 
 ### WebGl Link
