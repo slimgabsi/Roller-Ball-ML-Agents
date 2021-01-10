@@ -5,7 +5,9 @@ Simple Unity Ml agents implentation , Ball seeking target on a platfrom , traine
 The Repo contains the unity project , the config file for training and the webgl build with pretrained model .
 
 
-### WebGl Link (Use hardware acceleration)
+### WebGl Link 
+Use hardware acceleration
+<br/>
 https://slimgabsi.github.io/Roller-Ball-ML-Agents/
 <br/>
 ![picture](/screenShot.png)
