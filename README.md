@@ -1,5 +1,4 @@
 # Roller Ball ML Agents
-
 Simple Unity Ml agents implentation , Ball seeking target on a platfrom , trained with PPO .
 
 
