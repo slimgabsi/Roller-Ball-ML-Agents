@@ -10,6 +10,8 @@ Observations :
 
 <br/>
 Continous Actions :
+<br/>
+
 * two actions :first determines the force applied along the x-axis and the second determines the force applied along the z-axis.
 </br>
 The Repo contains the unity project , the config file for training and the webgl build with pretrained model .
